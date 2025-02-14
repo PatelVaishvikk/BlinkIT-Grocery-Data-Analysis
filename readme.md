@@ -73,5 +73,5 @@ The **BlinkIT Grocery Sales Dashboard** is designed to help stakeholders underst
 ## **Conclusion**
 This project demonstrates my ability to analyze data, create insightful visualizations, and build user-friendly dashboards using Power BI. It highlights my proficiency in data analytics, business intelligence, and data storytelling.
 
-> **GitHub Repository**: [Link to Repository] (Add your repo link here)
+> **GitHub Repository**: [[Link to Repository](https://github.com/PatelVaishvikk/BlinkIT-Grocery-Data-Analysis)] 
 
