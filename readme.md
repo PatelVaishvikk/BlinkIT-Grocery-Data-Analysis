@@ -1,5 +1,7 @@
 # BlinkIT Grocery Sales Dashboard Project
 
+![BlinkIT](./animation.gif)
+
 This project showcases a **Power BI Dashboard** built to analyze and visualize grocery sales data for BlinkIT, India's Last Minute App. The dashboard provides insights into sales performance, outlet types, item categories, and more.
 
 ---
